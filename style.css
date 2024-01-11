@@ -19,7 +19,7 @@
 
 .music-player {
   background: #1f1f1f;
-  width: 100vw;
+  width: 80%;
   max-width: 400px;
   padding: 1.563em 2.188em;
   text-align: center;
@@ -120,29 +120,3 @@ nav .circle {
   background: #1ed760;
   color: #fff;
 }
-
-.info {
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 90%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-  
-  .info-socials {
-    color: #fff;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 0.5em;
-  }
-  
-  .info-socials a {
-    color: currentColor;
-    padding: 0 0.5em;
-  }
-  
